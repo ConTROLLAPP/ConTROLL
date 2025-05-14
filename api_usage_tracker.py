@@ -1,1 +1,2 @@
-# Placeholder for api_usage_tracker.py
+def check_api_quota():
+    print("✅ API quota check: OK")

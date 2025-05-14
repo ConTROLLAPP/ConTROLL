@@ -1,1 +1,3 @@
-# Placeholder for requirements.txt
+pytesseract
+Pillow
+Flask
